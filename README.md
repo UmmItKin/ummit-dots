@@ -5,3 +5,11 @@
 Feel free to use this lol
 
 just download the .bin file and flash it to your ZSA mk1
+
+## Install
+
+For arch can use AUR package and flash:
+
+```bash
+paru -S aur/zsa-keymapp-bin
+```
