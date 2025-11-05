@@ -1,0 +1,7 @@
+[user]
+	emial = git@ummit.dev
+	name = UmmIt
+	email = git@ummit.dev
+	signingkey = E9DD984E4F6BF665
+[commit]
+	gpgSign = true
